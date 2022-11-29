@@ -1,1 +1,1 @@
-# mysite.github.io
+# my_site
